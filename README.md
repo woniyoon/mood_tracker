@@ -22,10 +22,10 @@
   <img src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/13274-1e708e28fa58694493de9b2f3bf08a11-medium_jpg.jpg?buster=1474899541" width=100 height=100 hspace="20"/>
 - Cloud Firestore
 
-  <img src="https://user-images.githubusercontent.com/33106403/46455725-1998ce80-c761-11e8-980f-e89064dc96fd.png" width=100 height=100 hspace="20"/>
+  <img src="https://user-images.githubusercontent.com/33106403/46455725-1998ce80-c761-11e8-980f-e89064dc96fd.png" width=80 height=80 hspace="20"/>
 - Mobx for state management
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1050px-Adobe_XD_CC_icon.svg.png" width=100 height=100 hspace="20"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1050px-Adobe_XD_CC_icon.svg.png" width=80 height=80 hspace="20"/>
 - XD for design
 
 
