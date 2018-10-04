@@ -1,5 +1,5 @@
 # Mood Jar
-<img alt="moodtracker" src="https://user-images.githubusercontent.com/33106403/46455658-e3f3e580-c760-11e8-8286-430054311b52.png">
+<img alt="moodtracker" src="https://user-images.githubusercontent.com/33106403/46455658-e3f3e580-c760-11e8-8286-430054311b52.png"  width=100 height=130>
 
 
 ## Introduction
@@ -16,8 +16,7 @@
  <img src="https://user-images.githubusercontent.com/33106403/46455714-0d147600-c761-11e8-958c-a7a4c2345bab.png" width=100 height=100 hspace="10"/> 
 - React Native with Visual Studio Code
 
-  <img src="https://cdn0.iconfinder.com/data/icons/social-network-24/512/Trello-512.png" width=100 height=100 hspace="10"/> 
-  <img src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-08-512.png" width=80 height=80 hspace="10"/>
+  <img src="https://cdn0.iconfinder.com/data/icons/social-network-24/512/Trello-512.png" width=100 height=100 hspace="10"/> <img src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-08-512.png" width=80 height=80 hspace="10"/>
 - Trello / Slack
 
   <img src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/13274-1e708e28fa58694493de9b2f3bf08a11-medium_jpg.jpg?buster=1474899541" width=100 height=100 hspace="20"/>
